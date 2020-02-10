@@ -1,0 +1,44 @@
+.log1{
+
+
+  color:#02ccba;
+}
+.world{
+  width:1170px;
+ padding-left:15px;
+ padding-right:15px;
+ margin-left:auto;
+ margin-right:auto;
+
+
+}
+.hello{
+  width:1170px;
+ padding-top:180px;
+  padding-bottom:100px;
+  padding-right:300px;
+  margin-bottom: 100px;
+  margin-top: auto;
+ color:white;
+ background-image:url(https://4kwallpaper.wiki/wp-content/uploads/2019/09/117009-1024x576.jpg);
+ background-size:cover;
+}
+
+
+.title p{
+  font-style:italic;
+}
+h3,h4
+{
+  height:20px;
+  color:#6a0dad;
+  font:bold;
+}
+.log1
+{
+  border-bottom: 5px solid #333;
+    border-style:dotted;
+}
+.hola{
+  padding-top: 60px;
+}
